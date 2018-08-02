@@ -1,4 +1,4 @@
-# Home Banking Project
+# Home Banking
 Un proyecto para practicar básico Javascript.
 
 ## Información
